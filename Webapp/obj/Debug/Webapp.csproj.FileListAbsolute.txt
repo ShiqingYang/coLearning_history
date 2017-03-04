@@ -1,0 +1,11 @@
+D:\ysq\Net\coLearning\Webapp\bin\Webapp.dll
+D:\ysq\Net\coLearning\Webapp\bin\Webapp.pdb
+D:\ysq\Net\coLearning\Webapp\obj\Debug\Webapp.csprojResolveAssemblyReference.cache
+D:\ysq\Net\coLearning\Webapp\obj\Debug\Webapp.dll
+D:\ysq\Net\coLearning\Webapp\obj\Debug\Webapp.pdb
+D:\ysq\Net\coLearning\Webapp\bin\Data.dll
+D:\ysq\Net\coLearning\Webapp\bin\Model.dll
+D:\ysq\Net\coLearning\Webapp\bin\DAL.dll
+D:\ysq\Net\coLearning\Webapp\bin\Data.pdb
+D:\ysq\Net\coLearning\Webapp\bin\Model.pdb
+D:\ysq\Net\coLearning\Webapp\bin\DAL.pdb

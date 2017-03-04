@@ -1,0 +1,7 @@
+D:\ysq\Net\coLearning\DAL\bin\Debug\DAL.dll
+D:\ysq\Net\coLearning\DAL\bin\Debug\DAL.pdb
+D:\ysq\Net\coLearning\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\ysq\Net\coLearning\DAL\obj\Debug\DAL.dll
+D:\ysq\Net\coLearning\DAL\obj\Debug\DAL.pdb
+D:\ysq\Net\coLearning\DAL\bin\Debug\Model.dll
+D:\ysq\Net\coLearning\DAL\bin\Debug\Model.pdb

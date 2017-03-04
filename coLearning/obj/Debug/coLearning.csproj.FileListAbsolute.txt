@@ -1,0 +1,7 @@
+D:\ysq\Net\coLearning\coLearning\bin\Debug\coLearning.exe
+D:\ysq\Net\coLearning\coLearning\bin\Debug\coLearning.pdb
+D:\ysq\Net\coLearning\coLearning\obj\Debug\coLearning.csprojResolveAssemblyReference.cache
+D:\ysq\Net\coLearning\coLearning\obj\Debug\coLearning.Properties.Resources.resources
+D:\ysq\Net\coLearning\coLearning\obj\Debug\coLearning.csproj.GenerateResource.Cache
+D:\ysq\Net\coLearning\coLearning\obj\Debug\coLearning.exe
+D:\ysq\Net\coLearning\coLearning\obj\Debug\coLearning.pdb

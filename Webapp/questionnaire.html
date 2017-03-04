@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <title>气质类型问卷</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css"/>
+    <script type="text/javascript" src="js/jquery.min.js"></script>
+    <script type="text/javascript" src="js/quiz.js"></script>
+    <script type="text/javascript">
+        var options = ['非常符合', '比较符合', '介于符合和不符合之间', '较不符合', '非常不符合'];
+        var init = {
+            'questions': [{
+                'question': '做事力求稳妥，一般不做无把握的事。',
+                'answers': options
+            }, {
+                'question': '遇到可气的事就怒不可遏，想把心里话全说出来才痛快。',
+                'answers': options
+            }, {
+                'question': '宁可一个人干事，不愿很多人在一起。',
+                'answers': options
+            }, {
+                'question': '到一个新环境很快就能适应。',
+                'answers': options
+            }, {
+                'question': '厌恶那些强烈的刺激，如尖叫、噪音、危险镜头。',
+                'answers': options
+            }, {
+                'question': '和人争吵时总是先发制人，喜欢挑衅。',
+                'answers': options
+            }, {
+                'question': '喜欢安静的环境。',
+                'answers': options
+            }, {
+                'question': '善于和人交往。',
+                'answers': options
+            }, {
+                'question': '羡慕那种善于克制自己感情的人。',
+                'answers': options
+            }, {
+                'question': '生活有规律，很少违反作息制度。',
+                'answers': options
+            }
+            ]
+        };
+        $(function () {
+            $('#quiz-container').jquizzy({
+                questions: init.questions
+            });
+        });
+    </script>
+</head>
+
+<body>
+
+<div class="demo">
+    <div id='quiz-container'></div>
+</div>
+<div style="text-align:center;margin:50px 0; font:normal 14px/24px 'MicroSoft YaHei';">
+</div>
+</body>
+</html>
